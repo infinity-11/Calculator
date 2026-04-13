@@ -6,7 +6,7 @@ It performs basic arithmetic operations with a clean and user-friendly interface
 ⸻
 
 Live Demo
-👉 https://infinity-11.github.io/calculator/
+👉 https://infinity-11.github.io/Calculator/
 
 ⸻
 
